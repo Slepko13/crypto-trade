@@ -19,6 +19,7 @@ function App() {
 					Learn React
 				</a>
 			</header>
+			<div>Just for next release</div>
 		</div>
 	);
 }
