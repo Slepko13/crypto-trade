@@ -11,13 +11,7 @@ on:
 
 jobs:
   setup:
-
-    runs-on: ${{matrix.os}}
-
-    strategy:
-      matrix:
-          os: [ubuntu-latest, macos-latest]
-
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
     - name: Use Node.js 14

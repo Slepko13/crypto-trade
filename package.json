@@ -24,7 +24,7 @@
     "prettier": "prettier --write ./src",
     "lint": "eslint --fix ./src/*.{tsx,ts}",
     "semantic-release": "semantic-release",
-    "prepare": ""
+    "prepare": "husky install"
   },
   "browserslist": {
     "production": [
