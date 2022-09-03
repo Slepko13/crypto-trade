@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Slepko13/crypto-trade/compare/v1.1.1...v1.2.0) (2022-09-03)
+
+
+### Features
+
+* **no-jira:** publish config added private removed name updated ([890226e](https://github.com/Slepko13/crypto-trade/commit/890226e9d947bf16c7157c9df4c0c7c9c989dc31))
+
 ## [1.1.1](https://github.com/Slepko13/crypto-trade/compare/v1.1.0...v1.1.1) (2022-09-03)
 
 
