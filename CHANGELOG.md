@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Slepko13/crypto-trade/compare/v1.0.0...v1.1.0) (2022-09-03)
+
+
+### Features
+
+* **no-jira:** text added ([e768af9](https://github.com/Slepko13/crypto-trade/commit/e768af92d886cb52a41793f19e8ddb4bc0add85d))
+
 # 1.0.0 (2022-09-03)
 
 
