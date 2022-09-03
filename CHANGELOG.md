@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Slepko13/crypto-trade/compare/v1.1.0...v1.1.1) (2022-09-03)
+
+
+### Bug Fixes
+
+* **no-jira:** macos removed, husky install added ([6815b69](https://github.com/Slepko13/crypto-trade/commit/6815b69205946b3aa6412c452635694688ec86a1))
+
 # [1.1.0](https://github.com/Slepko13/crypto-trade/compare/v1.0.0...v1.1.0) (2022-09-03)
 
 
