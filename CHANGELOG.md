@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/Slepko13/crypto-trade/compare/v1.2.0...v1.2.1) (2022-09-03)
+
+
+### Bug Fixes
+
+* **no-jira:** lock file update ([4583126](https://github.com/Slepko13/crypto-trade/commit/45831263220be22fc6a8e92d716582a10acf69fe))
+
 # [1.2.0](https://github.com/Slepko13/crypto-trade/compare/v1.1.1...v1.2.0) (2022-09-03)
 
 
